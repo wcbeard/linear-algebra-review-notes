@@ -1,0 +1,16 @@
+\BOOKMARK [1][-]{section.1}{Linear Algebra Notes}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Basic Linear Algebra concepts}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Geometry}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Nullspace N}{section.1}% 4
+\BOOKMARK [2][-]{subsection.1.4}{Transformations}{section.1}% 5
+\BOOKMARK [2][-]{subsection.1.5}{Invertibility}{section.1}% 6
+\BOOKMARK [2][-]{subsection.1.6}{Determinants}{section.1}% 7
+\BOOKMARK [2][-]{subsection.1.7}{Transpose, left nullspace N\(A T \) and rowspace C\(A T \)}{section.1}% 8
+\BOOKMARK [2][-]{subsection.1.8}{Projections and Least Squares Approximation}{section.1}% 9
+\BOOKMARK [2][-]{subsection.1.9}{Coordinates in different bases}{section.1}% 10
+\BOOKMARK [2][-]{subsection.1.10}{Orthonormal bases}{section.1}% 11
+\BOOKMARK [2][-]{subsection.1.11}{Eigenvalues and vectors}{section.1}% 12
+\BOOKMARK [1][-]{section.2}{Appendix}{}% 13
+\BOOKMARK [2][-]{subsection.2.1}{Why reduced row echelon works}{section.2}% 14
+\BOOKMARK [2][-]{subsection.2.2}{Solving an example nullspace using reduced row echelon form \(\04335\)}{section.2}% 15
+\BOOKMARK [2][-]{subsection.2.3}{Singularity implications}{section.2}% 16

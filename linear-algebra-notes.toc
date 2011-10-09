@@ -1,0 +1,16 @@
+\contentsline {section}{\numberline {1}Linear Algebra Notes}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}Basic Linear Algebra concepts}{1}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Geometry}{2}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Nullspace $\mathcal {N}$}{2}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}Transformations}{3}{subsection.1.4}
+\contentsline {subsection}{\numberline {1.5}Invertibility}{4}{subsection.1.5}
+\contentsline {subsection}{\numberline {1.6}Determinants}{5}{subsection.1.6}
+\contentsline {subsection}{\numberline {1.7}Transpose, left nullspace $\mathcal {N}(A ^{T} )$ and rowspace $C(A ^{T} )$}{5}{subsection.1.7}
+\contentsline {subsection}{\numberline {1.8}Projections and Least Squares Approximation}{6}{subsection.1.8}
+\contentsline {subsection}{\numberline {1.9}Coordinates in different bases}{7}{subsection.1.9}
+\contentsline {subsection}{\numberline {1.10}Orthonormal bases}{8}{subsection.1.10}
+\contentsline {subsection}{\numberline {1.11}Eigenvalues and vectors}{9}{subsection.1.11}
+\contentsline {section}{\numberline {2}Appendix}{10}{section.2}
+\contentsline {subsection}{\numberline {2.1}Why reduced row echelon works}{10}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Solving an example nullspace using reduced row echelon form (\#35)}{10}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Singularity implications}{11}{subsection.2.3}
